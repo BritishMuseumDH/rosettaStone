@@ -31,15 +31,17 @@ The Rosetta Stone has been exhibited in the British Museum since 1802, with only
 Date created: 196 BC
 
 ### Physical Dimensions
+
 * Length: 112.30cm (max)
 * Width: 75.70cm
 * Thickness: 28.40cm
 
-### Collection data
-Findspot Fort Saint Julien
-Period/culture: Ptolemaic
-Material: granodiorite
-Acquisition: Donated by George III. Excavated by Bouchard, Pierre Francois Xavier
+### Collection data (selected)
+
+* Findspot Fort Saint Julien
+* Period/culture: Ptolemaic
+* Material: granodiorite
+* Acquisition: Donated by George III. Excavated by Bouchard, Pierre Francois Xavier
 
 ### Links
 
