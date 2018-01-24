@@ -29,7 +29,7 @@ The Rosetta Stone has been exhibited in the British Museum since 1802, with only
 
 Date created: 196 BC
 
-###Physical Dimensions: 
+### Physical Dimensions
 * Length: 112.30cm (max)
 * Width: 75.70cm
 * Thickness: 28.40cm
